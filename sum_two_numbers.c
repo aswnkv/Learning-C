@@ -13,9 +13,6 @@ int main()
     printf("%d %d", i + j, i-j);
     printf("\n");
     
-    printf("%.1f %.1f", l + k,k-l);
-
-    printf("Thank you");
-    
+    printf("%.1f %.1f", l + k,k-l);    
     return 0;
 }
