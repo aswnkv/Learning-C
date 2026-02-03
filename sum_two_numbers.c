@@ -14,6 +14,8 @@ int main()
     printf("\n");
     
     printf("%.1f %.1f", l + k,k-l);
+
+    printf("Thank you");
     
     return 0;
 }
